@@ -8,8 +8,10 @@ namespace Day1_CalorieCounting
             IEnumerable<string> input = File.ReadLines("input.txt");
 
             Elf elf = new Elf();
+
             elf.CreateElves(input);
             Elf bestElf = elf.BestElf();
+
             Console.WriteLine(bestElf.TotalCalorie);
             Console.WriteLine(elf.TotalTopThree());
         }

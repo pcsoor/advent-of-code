@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Reflection;
 
 namespace Day1_CalorieCounting
 {
-	public class Elf
-	{
-		public List<Calorie> Package { get; set; }
+    public class Elf
+    {
+        public List<Calorie> Package { get; set; }
         public List<Elf> ListOfElves { get; set; }
         public int TotalCalorie
         {
@@ -16,11 +16,11 @@ namespace Day1_CalorieCounting
         }
 
         public Elf()
-		{
-		}
+        {
+        }
 
-		public void CreateElves(IEnumerable<string> input)
-		{
+        public void CreateElves(IEnumerable<string> input)
+        {
             List<Calorie> calorieValues = new List<Calorie>();
             ListOfElves = new List<Elf>();
 
@@ -58,6 +58,5 @@ namespace Day1_CalorieCounting
 
             return topThreeElf.Sum(x => x.TotalCalorie);
         }
-	}
+    }
 }
-
