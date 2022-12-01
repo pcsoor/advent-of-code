@@ -1,0 +1,15 @@
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/bin/Debug/net7.0/Day1_CalorieCounting
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/bin/Debug/net7.0/Day1_CalorieCounting.deps.json
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/bin/Debug/net7.0/Day1_CalorieCounting.runtimeconfig.json
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/bin/Debug/net7.0/Day1_CalorieCounting.dll
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/bin/Debug/net7.0/Day1_CalorieCounting.pdb
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.csproj.AssemblyReference.cache
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.AssemblyInfoInputs.cache
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.AssemblyInfo.cs
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.dll
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/refint/Day1_CalorieCounting.dll
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.pdb
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/Day1_CalorieCounting.genruntimeconfig.cache
+/Users/admin/Projects/AdventOfCode/2022/Day1_CalorieCounting/Day1_CalorieCounting/obj/Debug/net7.0/ref/Day1_CalorieCounting.dll
