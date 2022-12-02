@@ -1,0 +1,15 @@
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/bin/Debug/net7.0/Day2_RockPaperScissors
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/bin/Debug/net7.0/Day2_RockPaperScissors.deps.json
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/bin/Debug/net7.0/Day2_RockPaperScissors.runtimeconfig.json
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/bin/Debug/net7.0/Day2_RockPaperScissors.dll
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/bin/Debug/net7.0/Day2_RockPaperScissors.pdb
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.csproj.AssemblyReference.cache
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.AssemblyInfoInputs.cache
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.AssemblyInfo.cs
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.dll
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/refint/Day2_RockPaperScissors.dll
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.pdb
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/Day2_RockPaperScissors.genruntimeconfig.cache
+/Users/admin/Projects/AdventOfCode/2022/Day2_RockPaperScissors/Day2_RockPaperScissors/obj/Debug/net7.0/ref/Day2_RockPaperScissors.dll
